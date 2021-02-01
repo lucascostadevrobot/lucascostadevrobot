@@ -1,5 +1,3 @@
-
-
 <!--
 **lucascostadevrobot/lucascostadevrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### OLá, eu me chamo Lucas da Costa. Tenho 26 anos, nasci em 1994. Estou sempre em busca do aprendizado, melhorar minhas soft Skills e Hard Skills 👋
+________________________________________________________________________________________________________________________________________________________
+
+ :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
+
+- :mortar_board:	 Graduando no Curso de Sistemas de Informação pelo Instituto Federal Fluminense Conclusão 2021/2022;
+- :mortar_board:	 Techs: JavaScript, HTML5, CSS3, nodeJS, MysqL, ReactJS, MongoDB;
+-  :mortar_board:	 Procurando conhecimento em JavaScript, HTML5, CSS3, nodeJS, ReactJS, ReactNative, MongoDB, BD Relacionais;
+
+:dart:	Experiências você pode encontrar clincando aqui :point_down:	
+- https://www.linkedin.com/in/lucas-costa-2219b5189/

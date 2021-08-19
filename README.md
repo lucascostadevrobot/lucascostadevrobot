@@ -19,7 +19,7 @@ ________________________________________________________________________________
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Graduando no Curso de Sistemas de Informação pelo Instituto Federal Fluminense Conclusão 2021/2022;
-- :mortar_board:	 Techs: JavaScript, HTML5, CSS3, nodeJS, MysqL, ReactJS, MongoDB;
+- :mortar_board:	 Techs: Java, Hibernate, JPA, Servelets, JavaScript, HTML5, CSS3, MysqL, MongoDB;
 - :mortar_board:	 Procurando conhecimento em JavaScript, HTML5, CSS3, nodeJS, ReactJS, ReactNative, MongoDB, BD Relacionais;
 - :mortar_board:	 Estudando também infraestrutura: Redes de Computadores, Segurança da Informação, Manutenção e Configuração de Micros;
 

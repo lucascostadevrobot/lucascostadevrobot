@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### OLá, eu me chamo Lucas da Costa. Tenho 27 anos, nasci em 1994. Estou sempre em busca do aprendizado, melhorar minhas soft Skills e Hard Skills 👋
+### OLÁ, eu me chamo Lucas da Costa. Tenho 27 anos, nasci em 1994. Estou sempre em busca do aprendizado, melhorar minhas soft Skills e Hard Skills 👋
 ________________________________________________________________________________________________________________________________________________________
 
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:

@@ -13,16 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, eu me chamo Lucas da Costa. Tenho 27 anos, nasci em 1994. Estou sempre em busca do aprendizado, melhorar minhas soft Skills e Hard Skills 👋
-________________________________________________________________________________________________________________________________________________________
+<div style="background:linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);">
+  <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white;">Opa, seja muito bem vindo! Nem só de instagram viverá um dev. Tenho 27 anos de idade e muitas histórias para contar, estou sempre em busca de aprendizado, inovar, evoluir, ajudar e ser ajudado. Adoro o diálogo, adoro tudo que traga paz e amor.</p></h2>
+</div>
 
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense Conclusão 2021/2022;
-- :mortar_board:	 Techs: Java, Hibernate, JPA, Servelets, Spring Boot, Android, Maven, Gradle,  HTML5, CSS3, PostgreSQL, Firebase, MysqL, MongoDB;
-- :mortar_board:	 Estudando: Kotlin para Android Nativo, AWS, Docker e Kubernates;
-- :mortar_board:	 Techs Infra: Redes, Infraestrutra, Servidores Windows e Linux, Activity Directory, Vmware Esxi, GLPI Suporte;
 
+________________________________________________________________________________________________________________________________________________________
+
+- :mortar_board:	 Hard Skills
+
+  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg">
+    <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+     <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+
+________________________________________________________________________________________________________________________________________________________
+
+- :mortar_board:	 Soft Skills
+- Comunicativo, flexível, justo, esforçado, inteligência emocional, trabalho em equipe, compartilhar ideias, entender novas ideias, facilidade em aceitar opiniões.
+________________________________________________________________________________________________________________________________________________________
 
 
 <!--Inicialização da nova estilização readme 2022-->
@@ -40,5 +61,6 @@ ________________________________________________________________________________
 
 
 
-:dart:	Experiências você pode encontrar clincando aqui :point_down:	
-- https://www.linkedin.com/in/lucas-costa-2219b5189/
+:dart:	Experiências você pode encontrar clincando aqui :point_down:
+ <br><br>
+   <a href="https://www.linkedin.com/in/lucas-costa-2219b5189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

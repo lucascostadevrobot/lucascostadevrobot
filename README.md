@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
-- :mortar_board:	 Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense Conclusão 2021/2022;
+- :mortar_board:	 Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
 
 ________________________________________________________________________________________________________________________________________________________
 

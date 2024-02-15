@@ -20,6 +20,7 @@ Here are some ideas to get you started:
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
+- :mortar_board:   Formado em Informática: Infraestrutura, Manutenção de Micros, Redes de Computadores;
 
 ________________________________________________________________________________________________________________________________________________________
 
@@ -55,8 +56,6 @@ ________________________________________________________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascostadevrobot&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascostadevrobot&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-
 <!--Fim Inicialização da nova estilização readme 2022-->
 
 

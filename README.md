@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="background:linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);">
-  <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white;">Opa, seja muito bem vindo! Nem só de instagram viverá um dev. Tenho 29 anos de idade e muitas histórias para contar, estou sempre em busca de aprendizado, inovar, evoluir, ajudar e ser ajudado. Adoro o diálogo, adoro tudo que traga paz e amor.</p></h2>
+  <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white;">Opa, seja muito bem vindo! Nem só de instagram viverá um dev. Tenho 30 anos de idade e muitas histórias para contar, estou sempre em busca de aprendizado, inovar, evoluir, ajudar e ser ajudado. Adoro o diálogo, adoro tudo que traga paz e amor.</p></h2>
 </div>
 
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:

@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
-- :mortar_board:   Formado em Informática: Algoritmos, Lógica de Programação, Técnico em Informática;
+- :mortar_board:   Formações: Técnico em Informática; Bootcamp Formação Lógica de Programação;
+- :mortar_board:   Estudando: Bootcamp FullStack Developer DIO; Bootcamp Specialist Database;
 
 ________________________________________________________________________________________________________________________________________________________
 

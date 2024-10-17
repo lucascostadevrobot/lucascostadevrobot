@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
-- :mortar_board:   Formado em Informática: Algoritmos, Lógica de Programação, Infraestrutura, Manutenção de Micros, Redes de Computadores;
+- :mortar_board:   Formado em Informática: Algoritmos, Lógica de Programação, Técnico em Informática;
 
 ________________________________________________________________________________________________________________________________________________________
 

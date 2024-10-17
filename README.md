@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Ensino Acadêmico: Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
-- :mortar_board:   Formações: Técnico em Informática (SENAI-FIRJAN); Bootcamp Formação Lógica de Programação (DIO);
-- :mortar_board:   Estudando: Bootcamp FullStack Developer (DIO); Bootcamp Specialist Database (DIO);
+- 💻              Formações: Técnico em Informática (SENAI-FIRJAN); Bootcamp Formação Lógica de Programação (DIO);
+- 💻:   Estudando: Bootcamp FullStack Developer (DIO); Bootcamp Specialist Database (DIO);
 
 - 💬 Lígua: Português técnico (Gran Cursos);
 - 💬 Lígua 2: Inglês estudando (Gran Cursos e Udemy);

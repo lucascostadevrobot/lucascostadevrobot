@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 💻             Formações: Informática (SENAI-FIRJAN); Bootcamp Formação Lógica de Programação (DIO);
 - 💻 Estudando: Bootcamp FullStack Developer (DIO); Bootcamp Specialist Database (DIO);
 
-- 💬 Lígua: Português técnico (Gran Cursos);
-- 💬 Lígua 2: Inglês estudando (Gran Cursos e Udemy);
+- 💬 Língua : Português técnico (Gran Cursos);
+- 💬 Língua  2: Inglês estudando (Gran Cursos e Udemy);
     
 
 ________________________________________________________________________________________________________________________________________________________

@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div style="background:linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);">
-  <h2 style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white;">Sou Analista de Sistemas e Desenvolvedor com sólida experiência em back-end, utilizando principalmente Java, Spring Boot e bancos de dados relacionais como PostgreSQL e Oracle PL/SQL. Tenho também vivência em desenvolvimento mobile nativo para Android (Java) e estou em constante aprimoramento em React, buscando consolidar uma formação full stack. Atuo em ambientes ágeis, aplicando metodologias como Scrum e Kanban, sempre com foco na qualidade do código, performance das aplicações e entrega contínua de valor ao negócio. Minha abordagem combina conhecimento técnico aprofundado com visão sistêmica e compromisso em transformar desafios complexos em soluções eficientes. Além do desenvolvimento, possuo interesse e experiência em infraestrutura de TI, atuando na configuração e suporte de redes, servidores e ambientes corporativos, o que me proporciona uma compreensão ampla do ciclo completo de tecnologia.</p></h2>
-</div>
-
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Ensino Acadêmico: Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
-- - :mortar_board: Ensino Acadêmico: Pós-Graduando no Curso de Educação Profissional e Tecnológica ETP pelo Instituto Federal Flumuninense Cambuci-RJ;
-- 💻              Formações: Informática (SENAI-FIRJAN); Bootcamp Formação Lógica de Programação (DIO);
-- 💻   Estudando: Bootcamp FullStack Developer (DIO); Bootcamp Specialist Database (DIO);
+- :mortar_board: Ensino Acadêmico: Pós-Graduando no Curso de Educação Profissional e Tecnológica ETP pelo Instituto Federal Flumuninense Cambuci-RJ;
+- 💻             Formações: Informática (SENAI-FIRJAN); Bootcamp Formação Lógica de Programação (DIO);
+- 💻 Estudando: Bootcamp FullStack Developer (DIO); Bootcamp Specialist Database (DIO);
 
 - 💬 Lígua: Português técnico (Gran Cursos);
 - 💬 Lígua 2: Inglês estudando (Gran Cursos e Udemy);

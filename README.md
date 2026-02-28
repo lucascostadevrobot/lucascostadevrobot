@@ -17,9 +17,8 @@ Here are some ideas to get you started:
  :hourglass:		Confira um pouco abaixo sobre minha história acadêmica:
 
 - :mortar_board:	 Ensino Acadêmico: Graduado no Curso de Sistemas de Informação pelo Instituto Federal Fluminense;
-- :mortar_board: Ensino Acadêmico: Pós-Graduando no Curso de Educação Profissional e Tecnológica ETP pelo Instituto Federal Flumuninense Cambuci-RJ;
-- 💻             Formações: Informática (SENAI-FIRJAN); Bootcamp Formação Lógica de Programação (DIO);
-- 💻 Estudando: Bootcamp FullStack Developer (DIO); Bootcamp Specialist Database (DIO);
+- :mortar_board:  Ensino Acadêmico: Pós-Graduando no Curso de Educação Profissional e Tecnológica ETP pelo Instituto Federal Flumuninense Cambuci-RJ;
+- 💻              Formações: Informática (SENAI-FIRJAN); Formação Desenvolvedor FullStack;
 
 - 💬 Língua : Português técnico (Gran Cursos);
 - 💬 Língua  2: Inglês estudando (Gran Cursos e Udemy);
